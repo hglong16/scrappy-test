@@ -1,0 +1,71 @@
+{
+    "Dateien f\u00fcr Angebot": {
+        "0": {
+            "download_url": "https://evergabe.sachsen.de/NetServer/TenderingProcedureDetails?function=_DownloadTenderDocument&documentOID=54321-SpecificationVersion-186c1677751-7778ca57bb6235fa&Document=MDNfQW5nZWJvdCBtaXQgTGVpc3R1bmdzdmVyemVpY2huaXMucGRm",
+            "encodedName": "MDNfQW5nZWJvdCBtaXQgTGVpc3R1bmdzdmVyemVpY2huaXMucGRm",
+            "fileIndex": 0,
+            "fileName": "03_Angebot mit Leistungsverzeichnis.pdf",
+            "lastModifiedAsString": "08.03.2023 14:27",
+            "name": "03_Angebot mit Leistungsverzeichnis.pdf",
+            "nameEncoded": "MDNfQW5nZWJvdCBtaXQgTGVpc3R1bmdzdmVyemVpY2huaXMucGRm",
+            "parent": "Dateien f\u00fcr Angebot",
+            "size": "595 KB",
+            "sizeAsString": "595 KB",
+            "sizeLong": 609469
+        }
+    },
+    "Zus\u00e4tzliche Informationen": {
+        "0": {
+            "download_url": "https://evergabe.sachsen.de/NetServer/TenderingProcedureDetails?function=_DownloadTenderDocument&documentOID=54321-SpecificationVersion-186c1677751-7778ca57bb6235fa&Document=MDEtQW5nZWJvdHNhdWZmb3JkZXJ1bmcucGRm",
+            "encodedName": "MDEtQW5nZWJvdHNhdWZmb3JkZXJ1bmcucGRm",
+            "fileIndex": 0,
+            "fileName": "01-Angebotsaufforderung.pdf",
+            "lastModifiedAsString": "08.03.2023 14:27",
+            "name": "01-Angebotsaufforderung.pdf",
+            "nameEncoded": "MDEtQW5nZWJvdHNhdWZmb3JkZXJ1bmcucGRm",
+            "parent": "Zus\u00e4tzliche Informationen",
+            "size": "227 KB",
+            "sizeAsString": "227 KB",
+            "sizeLong": 231948
+        },
+        "1": {
+            "download_url": "https://evergabe.sachsen.de/NetServer/TenderingProcedureDetails?function=_DownloadTenderDocument&documentOID=54321-SpecificationVersion-186c1677751-7778ca57bb6235fa&Document=MDJfTGVpc3R1bmdzYmVzY2hyZWlidW5nLnBkZg",
+            "encodedName": "MDJfTGVpc3R1bmdzYmVzY2hyZWlidW5nLnBkZg",
+            "fileIndex": 0,
+            "fileName": "02_Leistungsbeschreibung.pdf",
+            "lastModifiedAsString": "08.03.2023 14:27",
+            "name": "02_Leistungsbeschreibung.pdf",
+            "nameEncoded": "MDJfTGVpc3R1bmdzYmVzY2hyZWlidW5nLnBkZg",
+            "parent": "Zus\u00e4tzliche Informationen",
+            "size": "13,3 KB",
+            "sizeAsString": "13,3 KB",
+            "sizeLong": 13633
+        },
+        "2": {
+            "download_url": "https://evergabe.sachsen.de/NetServer/TenderingProcedureDetails?function=_DownloadTenderDocument&documentOID=54321-SpecificationVersion-186c1677751-7778ca57bb6235fa&Document=MDRfQmV3ZXJidW5nc2JlZGluZ3VuZ2VuLmRvYy5wZGY",
+            "encodedName": "MDRfQmV3ZXJidW5nc2JlZGluZ3VuZ2VuLmRvYy5wZGY",
+            "fileIndex": 0,
+            "fileName": "04_Bewerbungsbedingungen.doc.pdf",
+            "lastModifiedAsString": "08.03.2023 14:27",
+            "name": "04_Bewerbungsbedingungen.doc.pdf",
+            "nameEncoded": "MDRfQmV3ZXJidW5nc2JlZGluZ3VuZ2VuLmRvYy5wZGY",
+            "parent": "Zus\u00e4tzliche Informationen",
+            "size": "149 KB",
+            "sizeAsString": "149 KB",
+            "sizeLong": 152715
+        },
+        "3": {
+            "download_url": "https://evergabe.sachsen.de/NetServer/TenderingProcedureDetails?function=_DownloadTenderDocument&documentOID=54321-SpecificationVersion-186c1677751-7778ca57bb6235fa&Document=MDVfTWVya2JsYXR0UGVyc29uZW5EYXRlbi5wZGY",
+            "encodedName": "MDVfTWVya2JsYXR0UGVyc29uZW5EYXRlbi5wZGY",
+            "fileIndex": 0,
+            "fileName": "05_MerkblattPersonenDaten.pdf",
+            "lastModifiedAsString": "08.03.2023 14:27",
+            "name": "05_MerkblattPersonenDaten.pdf",
+            "nameEncoded": "MDVfTWVya2JsYXR0UGVyc29uZW5EYXRlbi5wZGY",
+            "parent": "Zus\u00e4tzliche Informationen",
+            "size": "133 KB",
+            "sizeAsString": "133 KB",
+            "sizeLong": 135925
+        }
+    }
+}

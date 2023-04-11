@@ -63,8 +63,11 @@ class Detail(scrapy.Spider):
             endpoint,
             formdata=payload,
             headers={
-                "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
                 "Cookie": cookies,
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34",
+                "content-type": "application/x-www-form-urlencoded",
+                "x-puid": "YNgN2QokGScAA0-MH9MAAAIQ",
+                "x-requested-with": "XMLHttpRequest",
             },
             callback=self.parse_formdata,
             meta={
@@ -75,9 +78,10 @@ class Detail(scrapy.Spider):
         )
 
     def parse_formdata(self, response):
+        print(response.text)
         response.meta["data_title"]
-        data = json.loads(response.text)
-        if data:
+        if response.text:
+            data = json.loads(response.text)
             print("-------------DATATATATATTATAT----------------------")
             print(data)
             print("---------------------------------------------------")
@@ -91,7 +95,7 @@ class Detail(scrapy.Spider):
                         )
 
             os.makedirs("result", exist_ok=True)
-            file_name = self.remove_special_characters(response.meta["data_title"])
+            file_name = response.meta["data_oid"]
             with open("result/" + file_name + ".json", "w") as f:
                 json.dump(data, f, indent=4, sort_keys=True)
 

@@ -10,7 +10,7 @@ class NetServer(scrapy.Spider):
     name = "netserver"
     start_urls = [
         "https://evergabe.sachsen.de/NetServer/",
-        # "https://vergabe.duesseldorf.de/NetServer/",
+        "https://vergabe.duesseldorf.de/NetServer/",
     ]
 
     def __init__(self, name=None, **kwargs):
